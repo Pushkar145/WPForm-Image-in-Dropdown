@@ -1,0 +1,97 @@
+.wpforms-container .choices__list .choices__item {
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 0px;
+	background-size: 20px;
+}
+.wpforms-container .choices__list .choices__item{
+    margin: 5px 0px;
+}
+
+/* Switzerland */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-2{
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/ch.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+
+}
+/* Canada */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-3 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/ca.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+
+}
+/* Hongkong */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-4, .wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-13 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/hk.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+
+}
+
+/* Kenya */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-5 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/ke.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+}
+/* pakistan */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-6, .wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-14 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/pk.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+
+/* South Africa */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-7 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/za.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* UAE */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-8 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/ae.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* UK */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-9 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/gb.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* Bangladesh */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-11 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/bd.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* China */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-12 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/cn.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* Turkey */
+.wpforms-container .choices__list div#choices--wpforms-12961-field_8-item-choice-15 {
+    background-image: url('http://10.20.30.78/beta/wp-content/plugins/icon4menu//flags/4x3/tr.svg');
+	padding-left: 45px !important;
+	background-size: 35px;
+    
+}
+/* Rep Office heading */
+
+div#choices--wpforms-12961-field_8-item-choice-10 {
+    font-size: 18px;
+    font-weight: 600;
+	border-bottom: 1px solid black;
+    width: 100%;
+    margin-left: 0px;
+}
